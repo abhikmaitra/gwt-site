@@ -1,4 +1,4 @@
-Getting Started
+<a name="a" id="a">Getting Started</a>
 ===
 
 *  [Prerequisites](#prereqs)
@@ -161,4 +161,4 @@ set up Eclipse to use the GWT SDK:
 [Set up Eclipse](usingeclipse.html)
 
 If you are going to stick with the command line, check out Speed Tracer     and then
-head over to [Build a Sample GWT App](doc/latest/tutorial/gettingstarted.html).
+<a href="#a">head</a> over to [Build a Sample GWT App](doc/latest/tutorial/gettingstarted.html).
